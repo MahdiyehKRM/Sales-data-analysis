@@ -41,7 +41,7 @@ Support strategic decision-making with actionable insights.
 
 Enhance reporting and presentations for stakeholders.
 
-You can that result:
+You can see that result:
 
 
 ![Sales Dashboard](image.png)
