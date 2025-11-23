@@ -40,5 +40,9 @@ Identify top-performing products and underperforming categories.
 Support strategic decision-making with actionable insights.
 
 Enhance reporting and presentations for stakeholders.
+
+You can that result:
+
+
 ![Sales Dashboard](image.png)
 
